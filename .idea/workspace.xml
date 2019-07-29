@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ced41edd-02f7-4b1d-b122-d1f48cade7d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/WorldCupAssignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WorldCupAssignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_a_TopTwoPlayersWorldCup2015/topTwoPlayersWorldCup2015.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/indian_individual_batsmen_score.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1215">
+              <caret line="81" column="58" selection-start-line="81" selection-start-column="58" selection-end-line="81" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_a_TopTwoPlayersWorldCup2015/world_cup_2015_match_wise_top_2_players.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/indian_individual_batsmen_score.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/World cup 2015 average scores of indian batsmen on barchart.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/toGoogleSpreadSheet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetLineChart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/Google Sheet-80a12669b8a0.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetBarChat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'</find>
+      <find>pakistan</find>
+      <find>Afghanistan</find>
+      <find>sri l</find>
+      <find>banglades</find>
+      <find>aus</find>
+      <find>economy</find>
+      <find>india</find>
+      <find>summary</find>
+      <find>shami</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>overs</replace>
+      <replace>&quot;</replace>
+      <replace>scorecard</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sample1.py" />
+        <option value="$PROJECT_DIR$/world_cup_2015.txt" />
+        <option value="$PROJECT_DIR$/world_cup_2015_match_wise_top_2_players.txt" />
+        <option value="$PROJECT_DIR$/topTwoPlayersWorldCup2015.py" />
+        <option value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/toGoogleSpreadSheet.py" />
+        <option value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetBarChat.py" />
+        <option value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetLineChart.py" />
+        <option value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/indian_individual_batsmen_score.py" />
+        <option value="$PROJECT_DIR$/1_a_TopTwoPlayersWorldCup2015/topTwoPlayersWorldCup2015.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WorldCupAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WorldCupAssignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorldCupAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WorldCupAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="1_a_TopTwoPlayersWorldCup2015" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorldCupAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WorldCupAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="1_b_Indian_Individual_Batsmen_Score" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WorldCupAssignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WorldCupAssignment" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ib_developer/Desktop/learning/practice_problems/OOP_python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="WorldCupAssignment" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="WorldCupAssignment" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.indian_individual_batsmen_score">
+    <configuration name="fromGoogleSheetBarChat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WorldCupAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetBarChat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fromGoogleSheetLineChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WorldCupAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetLineChart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="indian_individual_batsmen_score" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WorldCupAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/indian_individual_batsmen_score.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="toGoogleSpreadSheet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WorldCupAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/toGoogleSpreadSheet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topTwoPlayersWorldCup2015" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WorldCupAssignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_a_TopTwoPlayersWorldCup2015" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_a_TopTwoPlayersWorldCup2015/topTwoPlayersWorldCup2015.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.indian_individual_batsmen_score" />
+        <item itemvalue="Python.fromGoogleSheetLineChart" />
+        <item itemvalue="Python.fromGoogleSheetBarChat" />
+        <item itemvalue="Python.toGoogleSpreadSheet" />
+        <item itemvalue="Python.topTwoPlayersWorldCup2015" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced41edd-02f7-4b1d-b122-d1f48cade7d8" name="Default Changelist" comment="" />
+      <created>1563448812906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563448812906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29344264" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945354" weight="0.29202586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.17564656" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50163937" side_tool="true" weight="0.28663793" />
+      <window_info anchor="bottom" auto_hide="true" x="68" y="409" width="1850" height="306" id="Python Console" order="10" sideWeight="0.49836066" weight="0.28663793" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.062295083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29202586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.17564656" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297414" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3297414" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>a+23</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/world_cup_2015.txt" />
+    <entry file="file://$PROJECT_DIR$/world_cup_2015_match_wise_top_2_players.txt" />
+    <entry file="file://$PROJECT_DIR$/topTwoPlayersWorldCup2015.py" />
+    <entry file="file://$PROJECT_DIR$/Assmt1_TopTwoPlayersWorldCup2015/world_cup_2015_match_wise_top_2_players.txt" />
+    <entry file="file://$PROJECT_DIR$/Assmt1_TopTwoPlayersWorldCup2015/topTwoPlayersWorldCup2015.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_a_TopTwoPlayersWorldCup2015/topTwoPlayersWorldCup2015.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_a_TopTwoPlayersWorldCup2015/world_cup_2015_match_wise_top_2_players.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetBarChat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/fromGoogleSheetLineChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/Google Sheet-80a12669b8a0.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/indian_individual_batsmen_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="58" selection-start-line="81" selection-start-column="58" selection-end-line="81" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/indian_individual_batsmen_score.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="48" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/World cup 2015 average scores of indian batsmen on barchart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_b_Indian_Individual_Batsmen_Score/toGoogleSpreadSheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

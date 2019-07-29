@@ -1,0 +1,282 @@
+[
+    {
+        "bat_first": true,
+        "team_score": "300",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "15"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "73"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "107"
+            },
+            {
+                "player_name": "SK Raina",
+                "score": "74"
+            },
+            {
+                "player_name": "MS Dhoni (c) \u2020",
+                "score": "18"
+            },
+            {
+                "player_name": "RA Jadeja",
+                "score": "3"
+            },
+            {
+                "player_name": "AM Rahane",
+                "score": "0"
+            },
+            {
+                "player_name": "R Ashwin",
+                "score": "1*"
+            },
+            {
+                "player_name": "Mohammed Shami",
+                "score": "3*"
+            }
+        ]
+    },
+    {
+        "bat_first": true,
+        "team_score": "307",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "0"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "137"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "46"
+            },
+            {
+                "player_name": "AM Rahane",
+                "score": "79"
+            },
+            {
+                "player_name": "SK Raina",
+                "score": "6"
+            },
+            {
+                "player_name": "MS Dhoni (c) \u2020",
+                "score": "18"
+            },
+            {
+                "player_name": "RA Jadeja",
+                "score": "2"
+            },
+            {
+                "player_name": "R Ashwin",
+                "score": "5*"
+            },
+            {
+                "player_name": "Mohammed Shami",
+                "score": "4*"
+            }
+        ]
+    },
+    {
+        "bat_first": false,
+        "team_score": "104",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "57*"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "14"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "33*"
+            }
+        ]
+    },
+    {
+        "bat_first": false,
+        "team_score": "185",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "7"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "9"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "33"
+            },
+            {
+                "player_name": "AM Rahane",
+                "score": "14"
+            },
+            {
+                "player_name": "SK Raina",
+                "score": "22"
+            },
+            {
+                "player_name": "MS Dhoni (c) \u2020",
+                "score": "45*"
+            },
+            {
+                "player_name": "RA Jadeja",
+                "score": "13"
+            },
+            {
+                "player_name": "R Ashwin",
+                "score": "16*"
+            }
+        ]
+    },
+    {
+        "bat_first": false,
+        "team_score": "260",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "64"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "100"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "44*"
+            },
+            {
+                "player_name": "AM Rahane",
+                "score": "33*"
+            }
+        ]
+    },
+    {
+        "bat_first": false,
+        "team_score": "288",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "16"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "4"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "38"
+            },
+            {
+                "player_name": "AM Rahane",
+                "score": "19"
+            },
+            {
+                "player_name": "SK Raina",
+                "score": "110*"
+            },
+            {
+                "player_name": "MS Dhoni (c) \u2020",
+                "score": "85*"
+            }
+        ]
+    },
+    {
+        "bat_first": true,
+        "team_score": "302",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "137"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "30"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "3"
+            },
+            {
+                "player_name": "AM Rahane",
+                "score": "19"
+            },
+            {
+                "player_name": "SK Raina",
+                "score": "65"
+            },
+            {
+                "player_name": "MS Dhoni (c) \u2020",
+                "score": "6"
+            },
+            {
+                "player_name": "RA Jadeja",
+                "score": "23*"
+            },
+            {
+                "player_name": "R Ashwin",
+                "score": "3*"
+            }
+        ]
+    },
+    {
+        "bat_first": false,
+        "team_score": "233",
+        "batsmen": [
+            {
+                "player_name": "RG Sharma",
+                "score": "34"
+            },
+            {
+                "player_name": "S Dhawan",
+                "score": "45"
+            },
+            {
+                "player_name": "V Kohli",
+                "score": "1"
+            },
+            {
+                "player_name": "AM Rahane",
+                "score": "44"
+            },
+            {
+                "player_name": "SK Raina",
+                "score": "7"
+            },
+            {
+                "player_name": "MS Dhoni (c) \u2020",
+                "score": "65"
+            },
+            {
+                "player_name": "RA Jadeja",
+                "score": "16"
+            },
+            {
+                "player_name": "R Ashwin",
+                "score": "5"
+            },
+            {
+                "player_name": "Mohammed Shami",
+                "score": "1*"
+            },
+            {
+                "player_name": "MM Sharma",
+                "score": "0"
+            },
+            {
+                "player_name": "UT Yadav",
+                "score": "0"
+            }
+        ]
+    }
+]

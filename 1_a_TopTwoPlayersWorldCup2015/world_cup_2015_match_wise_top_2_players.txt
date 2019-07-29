@@ -1,0 +1,482 @@
+[
+    [
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "Suresh Raina",
+                    "score": "74",
+                    "balls": "56"
+                },
+                {
+                    "player_name": "Virat Kohli",
+                    "score": "107",
+                    "balls": "126"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Mohammed Shami",
+                    "wickets": "4",
+                    "runs_conceded": "35",
+                    "overs": "9"
+                },
+                {
+                    "player_name": "Mohit Sharma",
+                    "wickets": "2",
+                    "runs_conceded": "35",
+                    "overs": "9"
+                }
+            ]
+        },
+        {
+            "team_name": "PAKISTAN",
+            "top_batsmen": [
+                {
+                    "player_name": "Misbah-ul-Haq",
+                    "score": "76",
+                    "balls": "84"
+                },
+                {
+                    "player_name": "Ahmed Shehzad",
+                    "score": "47",
+                    "balls": "73"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Wahab Riaz",
+                    "wickets": "1",
+                    "runs_conceded": "49",
+                    "overs": "10"
+                },
+                {
+                    "player_name": "Sohail Khan",
+                    "wickets": "5",
+                    "runs_conceded": "55",
+                    "overs": "10"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "Shikhar Dhawan",
+                    "score": "137",
+                    "balls": "146"
+                },
+                {
+                    "player_name": "Ajinkya Rahane",
+                    "score": "79",
+                    "balls": "60"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Ravichandran Ashwin",
+                    "wickets": "3",
+                    "runs_conceded": "41",
+                    "overs": "10"
+                },
+                {
+                    "player_name": "Mohammed Shami",
+                    "wickets": "2",
+                    "runs_conceded": "30",
+                    "overs": "8"
+                }
+            ]
+        },
+        {
+            "team_name": "SOUTH AFRICA",
+            "top_batsmen": [
+                {
+                    "player_name": "Faf du Plessis",
+                    "score": "55",
+                    "balls": "71"
+                },
+                {
+                    "player_name": "AB de Villiers",
+                    "score": "30",
+                    "balls": "38"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Imran Tahir",
+                    "wickets": "1",
+                    "runs_conceded": "48",
+                    "overs": "10"
+                },
+                {
+                    "player_name": "Morne Morkel",
+                    "wickets": "2",
+                    "runs_conceded": "59",
+                    "overs": "10"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "team_name": "UNITED ARAB EMIRATES",
+            "top_batsmen": [
+                {
+                    "player_name": "Khurram Khan",
+                    "score": "14",
+                    "balls": "28"
+                },
+                {
+                    "player_name": "Shaiman Anwar",
+                    "score": "35",
+                    "balls": "49"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Manjula Guruge",
+                    "wickets": "0",
+                    "runs_conceded": "19",
+                    "overs": "6"
+                },
+                {
+                    "player_name": "Mohammad Naveed",
+                    "wickets": "1",
+                    "runs_conceded": "35",
+                    "overs": "5"
+                }
+            ]
+        },
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "Rohit Sharma*",
+                    "score": "57",
+                    "balls": "55"
+                },
+                {
+                    "player_name": "Virat Kohli*",
+                    "score": "33",
+                    "balls": "41"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Ravichandran Ashwin",
+                    "wickets": "4",
+                    "runs_conceded": "25",
+                    "overs": "10"
+                },
+                {
+                    "player_name": "Umesh Yadav",
+                    "wickets": "2",
+                    "runs_conceded": "15",
+                    "overs": "6.3"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "team_name": "WEST INDIES",
+            "top_batsmen": [
+                {
+                    "player_name": "Darren Sammy",
+                    "score": "26",
+                    "balls": "55"
+                },
+                {
+                    "player_name": "Jason Holder",
+                    "score": "57",
+                    "balls": "64"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Jerome Taylor",
+                    "wickets": "2",
+                    "runs_conceded": "33",
+                    "overs": "8"
+                },
+                {
+                    "player_name": "Andre Russell",
+                    "wickets": "2",
+                    "runs_conceded": "43",
+                    "overs": "8"
+                }
+            ]
+        },
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "MS Dhoni*",
+                    "score": "45",
+                    "balls": "56"
+                },
+                {
+                    "player_name": "Virat Kohli",
+                    "score": "33",
+                    "balls": "36"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Ravindra Jadeja",
+                    "wickets": "2",
+                    "runs_conceded": "27",
+                    "overs": "8.2"
+                },
+                {
+                    "player_name": "Mohammed Shami",
+                    "wickets": "3",
+                    "runs_conceded": "35",
+                    "overs": "8"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "team_name": "IRELAND",
+            "top_batsmen": [
+                {
+                    "player_name": "Niall O'Brien",
+                    "score": "75",
+                    "balls": "75"
+                },
+                {
+                    "player_name": "William Porterfield",
+                    "score": "67",
+                    "balls": "93"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Alex Cusack",
+                    "wickets": "0",
+                    "runs_conceded": "43",
+                    "overs": "8"
+                },
+                {
+                    "player_name": "Stuart Thompson",
+                    "wickets": "2",
+                    "runs_conceded": "45",
+                    "overs": "6"
+                }
+            ]
+        },
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "Shikhar Dhawan",
+                    "score": "100",
+                    "balls": "85"
+                },
+                {
+                    "player_name": "Rohit Sharma",
+                    "score": "64",
+                    "balls": "66"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Ravichandran Ashwin",
+                    "wickets": "2",
+                    "runs_conceded": "38",
+                    "overs": "10"
+                },
+                {
+                    "player_name": "Mohammed Shami",
+                    "wickets": "3",
+                    "runs_conceded": "41",
+                    "overs": "9"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "team_name": "ZIMBABWE",
+            "top_batsmen": [
+                {
+                    "player_name": "Brendan Taylor",
+                    "score": "138",
+                    "balls": "110"
+                },
+                {
+                    "player_name": "Sean Williams",
+                    "score": "50",
+                    "balls": "57"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Tinashe Panyangara",
+                    "wickets": "2",
+                    "runs_conceded": "53",
+                    "overs": "8.4"
+                },
+                {
+                    "player_name": "Sikandar Raza",
+                    "wickets": "1",
+                    "runs_conceded": "37",
+                    "overs": "8"
+                }
+            ]
+        },
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "MS Dhoni*",
+                    "score": "85",
+                    "balls": "76"
+                },
+                {
+                    "player_name": "Suresh Raina*",
+                    "score": "110",
+                    "balls": "104"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Umesh Yadav",
+                    "wickets": "3",
+                    "runs_conceded": "43",
+                    "overs": "9.5"
+                },
+                {
+                    "player_name": "Mohit Sharma",
+                    "wickets": "3",
+                    "runs_conceded": "48",
+                    "overs": "10"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "Suresh Raina",
+                    "score": "65",
+                    "balls": "57"
+                },
+                {
+                    "player_name": "Rohit Sharma",
+                    "score": "137",
+                    "balls": "126"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Umesh Yadav",
+                    "wickets": "4",
+                    "runs_conceded": "31",
+                    "overs": "9"
+                },
+                {
+                    "player_name": "Mohammed Shami",
+                    "wickets": "2",
+                    "runs_conceded": "37",
+                    "overs": "8"
+                }
+            ]
+        },
+        {
+            "team_name": "BANGLADESH",
+            "top_batsmen": [
+                {
+                    "player_name": "Nasir Hossain",
+                    "score": "35",
+                    "balls": "34"
+                },
+                {
+                    "player_name": "Sabbir Rahman",
+                    "score": "30",
+                    "balls": "40"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Rubel Hossain",
+                    "wickets": "1",
+                    "runs_conceded": "56",
+                    "overs": "10"
+                },
+                {
+                    "player_name": "Taskin Ahmed",
+                    "wickets": "3",
+                    "runs_conceded": "69",
+                    "overs": "10"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "team_name": "AUSTRALIA",
+            "top_batsmen": [
+                {
+                    "player_name": "Aaron Finch",
+                    "score": "81",
+                    "balls": "116"
+                },
+                {
+                    "player_name": "Steven Smith",
+                    "score": "105",
+                    "balls": "93"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "James Faulkner",
+                    "wickets": "3",
+                    "runs_conceded": "59",
+                    "overs": "9"
+                },
+                {
+                    "player_name": "Mitchell Starc",
+                    "wickets": "2",
+                    "runs_conceded": "28",
+                    "overs": "8.5"
+                }
+            ]
+        },
+        {
+            "team_name": "INDIA",
+            "top_batsmen": [
+                {
+                    "player_name": "MS Dhoni",
+                    "score": "65",
+                    "balls": "65"
+                },
+                {
+                    "player_name": "Shikhar Dhawan",
+                    "score": "45",
+                    "balls": "41"
+                }
+            ],
+            "top_bowlers": [
+                {
+                    "player_name": "Umesh Yadav",
+                    "wickets": "4",
+                    "runs_conceded": "72",
+                    "overs": "9"
+                },
+                {
+                    "player_name": "Mohit Sharma",
+                    "wickets": "2",
+                    "runs_conceded": "75",
+                    "overs": "10"
+                }
+            ]
+        }
+    ]
+]
